@@ -1,6 +1,6 @@
-# Python-for-Data-Analysis
-Code Summary for Python for Data Analysis, Wes McKinney, second edition  
-By yz3380@columbia.edu
+# Python for Data Analysis Book Summary
+O'Reilly: Python for Data Analysis, Wes McKinney, second edition  
+Summarized by yz3380@columbia.edu
 
 ## Quick Lookup
 ### [Numpy & Pandas Basics](https://github.com/yz3380/Python-for-Data-Analysis/blob/master/Book_summary_Ch1-5.ipynb)  
