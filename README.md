@@ -1,5 +1,6 @@
 # Python for Data Analysis Book Summary
-O'Reilly: Python for Data Analysis, Wes McKinney, second edition  
+[O'Reilly, Python for Data Analysis, Wes McKinney, second edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-dp-1491957662/dp/1491957662/ref=mt_paperback?_encoding=UTF8&me=&qid=1577828035)  
+
 Summarized by yz3380@columbia.edu
 
 ## Quick Lookup
