@@ -1,3 +1,13 @@
 # Python-for-Data-Analysis
-Code Summary for Python for Data Analysis, Wes McKinney, second edition
+Code Summary for Python for Data Analysis, Wes McKinney, second edition  
+By yz3380@columbia.edu
 
+## Quick Lookup
+### [Numpy & Pandas Basics](https://github.com/yz3380/Python-for-Data-Analysis/blob/master/Book_summary_Ch1-5.ipynb)  
+### [Loading & Cleaning Data](https://github.com/yz3380/Python-for-Data-Analysis/blob/master/Book_summary_Ch6%2C7.ipynb)  
+### [Join, Combine, Reshape](https://github.com/yz3380/Python-for-Data-Analysis/blob/master/Book_summary_Ch8.ipynb)  
+### [Plotting & Visualization](https://github.com/yz3380/Python-for-Data-Analysis/blob/master/Book_summary_Ch9.ipynb)  
+### [Aggregation & Group Operations](https://github.com/yz3380/Python-for-Data-Analysis/blob/master/Book_summary_Ch10.ipynb)  
+### [Advanced Pandas](https://github.com/yz3380/Python-for-Data-Analysis/blob/master/Book_summary_Ch12.ipynb)  
+### [Linear Modelling](https://github.com/yz3380/Python-for-Data-Analysis/blob/master/Book_summary_Ch13.ipynb)  
+### [Python Beginner Cheat-sheet](https://github.com/yz3380/Python-for-Data-Analysis/blob/master/mementopython3.pdf)  
