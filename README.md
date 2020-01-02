@@ -12,3 +12,6 @@ Summarized by yz3380@columbia.edu
 ### [Advanced Pandas](https://github.com/yz3380/Python-for-Data-Analysis/blob/master/Book_summary_Ch12.ipynb)  
 ### [Linear Modelling](https://github.com/yz3380/Python-for-Data-Analysis/blob/master/Book_summary_Ch13.ipynb)  
 ### [Python Beginner Cheat-sheet](https://github.com/yz3380/Python-for-Data-Analysis/blob/master/mementopython3.pdf)  
+
+
+![Book](https://github.com/yz3380/Python-for-Data-Analysis/blob/master/Book.png)
